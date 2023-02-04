@@ -10,13 +10,14 @@ import android.widget.Button;
 import com.asgar72.layoutsdemo.R;
 
 public class MainActivity extends AppCompatActivity {
-Button btn1,btn2;
+Button btn1,btn2,btn3;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         btn1 = findViewById(R.id.btn1);
         btn2 = findViewById(R.id.btn2);
+        btn3 = findViewById(R.id.btn3);
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -28,6 +29,13 @@ Button btn1,btn2;
             @Override
             public void onClick(View view) {
                 Intent ob = new Intent(getApplicationContext(),linear_layout_template.class);
+                startActivity(ob);
+            }
+        });
+        btn3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent ob = new Intent(getApplicationContext(),linear_layout_template2.class);
                 startActivity(ob);
             }
         });
