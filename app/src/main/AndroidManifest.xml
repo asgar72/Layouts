@@ -12,6 +12,9 @@
         android:theme="@style/Theme.LayoutsDemo"
         tools:targetApi="31">
         <activity
+            android:name=".DemoOne.linear_layout_template3"
+            android:exported="false" />
+        <activity
             android:name=".DemoOne.MainActivity"
             android:exported="true">
             <intent-filter>
