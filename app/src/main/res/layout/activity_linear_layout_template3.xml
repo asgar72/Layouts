@@ -55,8 +55,8 @@
                     android:orientation="vertical">
 
                     <ImageView
-                        android:layout_width="100dp"
-                        android:layout_height="100dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:src="@drawable/w1" />
 
                     <TextView
@@ -82,8 +82,8 @@
                     android:orientation="vertical">
 
                     <ImageView
-                        android:layout_width="100dp"
-                        android:layout_height="100dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:src="@drawable/w2" />
 
                     <TextView
@@ -115,8 +115,8 @@
                     android:orientation="vertical">
 
                     <ImageView
-                        android:layout_width="100dp"
-                        android:layout_height="100dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:src="@drawable/w1" />
 
                     <TextView
@@ -140,8 +140,8 @@
                     android:gravity="center"
                     android:orientation="vertical">
                     <ImageView
-                        android:layout_width="100dp"
-                        android:layout_height="100dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:src="@drawable/w2" />
                     <TextView
                         android:layout_width="wrap_content"
@@ -170,8 +170,8 @@
                     android:orientation="vertical">
 
                     <ImageView
-                        android:layout_width="100dp"
-                        android:layout_height="100dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:src="@drawable/w1" />
 
                     <TextView
@@ -195,8 +195,8 @@
                     android:gravity="center"
                     android:orientation="vertical">
                     <ImageView
-                        android:layout_width="100dp"
-                        android:layout_height="100dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:src="@drawable/w2" />
                     <TextView
                         android:layout_width="wrap_content"
@@ -225,8 +225,8 @@
                     android:orientation="vertical">
 
                     <ImageView
-                        android:layout_width="100dp"
-                        android:layout_height="100dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:src="@drawable/w1" />
 
                     <TextView
@@ -250,8 +250,8 @@
                     android:gravity="center"
                     android:orientation="vertical">
                     <ImageView
-                        android:layout_width="100dp"
-                        android:layout_height="100dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:src="@drawable/w2" />
                     <TextView
                         android:layout_width="wrap_content"
