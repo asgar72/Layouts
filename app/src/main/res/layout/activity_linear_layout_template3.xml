@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/inner_layout3"
     android:orientation="vertical"
-    tools:context=".DemoOne.linear_layout_template3">
+    tools:context=".Linear_Layout.linear_layout_template3">
 
     <ScrollView
         android:layout_width="match_parent"

@@ -7,7 +7,7 @@
     android:background="@drawable/layout_template"
     android:orientation="vertical"
     android:padding="40dp"
-    tools:context=".DemoOne.linear_layout_template2">
+    tools:context=".Linear_Layout.linear_layout_template2">
 
     <LinearLayout
         android:layout_width="match_parent"

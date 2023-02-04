@@ -11,11 +11,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LayoutsDemo"
         tools:targetApi="31">
+        <activity android:name=".Relative_layout.Relative_temp1"
+            android:exported="false"/>
         <activity
-            android:name=".DemoOne.linear_layout_template3"
+            android:name=".Linear_Layout.linear_layout_template3"
             android:exported="false" />
         <activity
-            android:name=".DemoOne.MainActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,13 +26,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DemoOne.linear_layout_template2"
+            android:name=".Linear_Layout.linear_layout_template2"
             android:exported="false" />
         <activity
-            android:name=".DemoOne.linear_layout_template"
+            android:name=".Linear_Layout.linear_layout_template"
             android:exported="false" />
         <activity
-            android:name=".DemoOne.LinearLayoutOne"
+            android:name=".Linear_Layout.LinearLayoutOne"
             android:exported="false" />
     </application>
 
