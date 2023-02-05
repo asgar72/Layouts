@@ -11,8 +11,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LayoutsDemo"
         tools:targetApi="31">
-        <activity android:name=".Relative_layout.Relative_temp1"
-            android:exported="false"/>
+        <activity
+            android:name=".Constraint_temp2"
+            android:exported="false" />
+        <activity
+            android:name=".ConstraintLayout.Constraint_temp1"
+            android:exported="false" />
+        <activity
+            android:name=".Relative_layout.Relative_temp1"
+            android:exported="false" />
         <activity
             android:name=".Linear_Layout.linear_layout_template3"
             android:exported="false" />
